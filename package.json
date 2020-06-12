@@ -1,0 +1,29 @@
+{
+  "name": "front-end-web-task-one",
+  "version": "1.0.0",
+  "description": "task one",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryan1297/front-end-web-task-one.git"
+  },
+  "author": "Bryan Hurtado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryan1297/front-end-web-task-one/issues"
+  },
+  "homepage": "https://github.com/Bryan1297/front-end-web-task-one#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
